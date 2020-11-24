@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN2397
   title: དཔལ་ཆེན་ཧའོ་དགོན་གྱི་གནས་ཡིག
-  volume: ''
+  volume:
+    de20300642b040aab388bca0bfe3ca2d:
+      image_group_id: I3CN2399
+      title: Volume 1 of dpal chen ha'o dgon gyi gnas yig
+      volume_number: 1
+      total_pages: 74
   author: ''
+ebook_metadata:
+  title: དཔལ་ཆེན་ཧའོ་དགོན་གྱི་གནས་ཡིག
+  author: ''
+  sku: P000328
+  cover: cover.jpg
+  layers:
+  - pagination
